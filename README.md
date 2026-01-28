@@ -1,14 +1,15 @@
-# creativecommons.org
+ERNESTO NEFTAI LOPEZ GUERRERO creativecommons.org
 
 Legacy legal code translations and general support issues
 
 
 ## Help and support
 
-You can open an [issue][support] or see [Contact | Creative Commons][contact].
+You can open an [issue][support] or see [ | Creative Commons][contact].
 
 [support]: https://github.com/creativecommons/creativecommons.org/issues
-[contact]: https://creativecommons.org/about/contact/
+[contact]: https://creativecommons.org/about/contact/#
+
 
 
 ## Legal code translations
